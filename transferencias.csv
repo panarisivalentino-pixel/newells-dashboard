@@ -1,0 +1,137 @@
+tipo_mov,fecha,anio,mes,jugador,tm_id,club_contraparte,monto_final_usd,fuente_final
+baja,2026-07-13,2026.0,7.0,Guillermo Balzi,896234,Holstein Kiel,628320.0,transfermarkt
+baja,2026-07-14,2026.0,7.0,Martín Fernández,670341,CF Atlante,307935.0,transfermarkt
+baja,2026-07-15,2026.0,7.0,Thiago Gigena,1193579,Cancún FC,171090.0,transfermarkt
+alta,2026-01-22,2026.0,1.0,Rodrigo Herrera,842141,CSD Defensa y Justicia,1521780.0,transfermarkt
+alta,2025-07-01,2025.0,7.0,Martín Fernández,670341,CA Boston River,1417200.0,transfermarkt
+alta,2026-01-19,2026.0,1.0,Oscar Salomón,698323,CA Boca Juniors,1000266.0,transfermarkt
+alta,2026-01-04,2026.0,1.0,Luciano Herrera,730802,CSD Defensa y Justicia,998080.0,consenso(lacapital+transfermarkt)
+alta,2025-07-24,2025.0,7.0,Juan Espínola,532557,Club Olimpia,1000000.0,calvigioni
+alta,2026-01-14,2026.0,1.0,Bruno Cabrera,840764,Coquimbo Unido,500993.0,transfermarkt
+alta,2026-01-14,2026.0,1.0,Walter Núñez,1020838,Montevideo City Torque,222534.0,transfermarkt
+alta,2026-03-09,2026.0,3.0,Walter Mazzantti,477458,CA Independiente,100528.0,transfermarkt
+alta,2026-01-14,2026.0,1.0,Franco García,997424,CD Cobresal,60585.0,transfermarkt
+alta,2026-01-14,2026.0,1.0,Nicolás Goitea,840768,CA Mitre,60585.0,transfermarkt
+baja,2025-08-22,2025.0,8.0,Mateo Silvetti,1213080,Inter Miami CF,4500000.0,calvigioni
+baja,2025-07-15,2025.0,7.0,Tomás Jacob,950131,Club Necaxa,2800000.0,calvigioni
+baja,2025-07-21,2025.0,7.0,Keylor Navas,79422,Pumas UNAM,1900000.0,calvigioni
+baja,2025-07-16,2025.0,7.0,Fernando Cardozo,491598,Club Olimpia,495405.0,transfermarkt
+baja,2025-08-27,2025.0,8.0,Ángelo Martino,471641,CSKA Sofia,400000.0,calvigioni
+baja,2026-03-17,2026.0,3.0,Jherson Mosquera,638623,Deportes Tolima,74952.0,transfermarkt
+alta,2024-07-19,2024.0,7.0,Saúl Salcedo,353035,Club Olimpia,2000000.0,calvigioni
+alta,2024-06-26,2024.0,6.0,Fernando Cardozo,491598,Club Olimpia,1200000.0,calvigioni
+alta,2024-07-30,2024.0,7.0,Lucas Besozzi,829381,CA Lanús,300000.0,calvigioni
+alta,2025-01-08,2025.0,1.0,Luca Sosa,421718,Barcelona SC Guayaquil,148118.0,transfermarkt
+alta,2025-01-25,2025.0,1.0,Alejo Montero,649998,CA Agropecuario,34621.0,transfermarkt
+baja,2024-07-07,2024.0,7.0,Brian Aguirre,668549,CA Boca Juniors,5000000.0,calvigioni
+baja,2025-02-03,2025.0,2.0,Tomás Pérez,1152154,FC Oporto,2825350.0,consenso(lacapital+transfermarkt)
+baja,2025-01-04,2025.0,1.0,Gustavo Velázquez,389399,Club Cerro Porteño,1200000.0,calvigioni
+baja,2025-01-01,2025.0,1.0,Juan Pablo Freytes,628750,Club Alianza Lima,631655.0,transfermarkt
+baja,2025-01-29,2025.0,1.0,Francisco González,703564,CSD Defensa y Justicia,500048.0,transfermarkt
+baja,2024-07-01,2024.0,7.0,Enzo Cabrera,538527,AEK Larnaca,171920.0,transfermarkt
+baja,2025-03-13,2025.0,3.0,Nazareno Fúnez,960200,CSD Defensa y Justicia,119130.0,transfermarkt
+alta,2024-01-19,2024.0,1.0,Ignacio Ramírez,402079,Club Nacional,4000000.0,calvigioni
+alta,2023-07-29,2023.0,7.0,Carlos Ordóñez,909770,Envigado FC,800000.0,calvigioni
+alta,2024-01-10,2024.0,1.0,Franco Díaz,748060,CA Vélez Sarsfield,202501.0,transfermarkt
+alta,2023-08-14,2023.0,8.0,Ignacio Schor,840760,CA Platense,148750.0,calvigioni
+alta,2023-08-31,2023.0,8.0,Guillermo May,479718,Danubio FC,120000.0,calvigioni
+baja,2024-01-28,2024.0,1.0,Juan Sforza,659264,Clube de Regatas Vasco da Gama,5000000.0,calvigioni
+baja,2023-06-26,2023.0,6.0,Willer Ditta,609255,CD Cruz Azul,4000000.0,calvigioni
+baja,2024-01-17,2024.0,1.0,Ramiro Sordo,830112,Santos Laguna,3250000.0,calvigioni
+baja,2023-12-22,2023.0,12.0,Juan Pablo Freytes,628750,Club Alianza Lima,100000.0,calvigioni
+alta,2023-02-04,2023.0,2.0,Ángelo Martino,471641,CA Talleres,1523667.0,transfermarkt
+alta,2023-01-28,2023.0,1.0,Jherson Mosquera,638623,Deportivo Pereira,600000.0,calvigioni
+alta,2023-01-01,2023.0,1.0,Willer Ditta,609255,Junior de Barranquilla,700000.0,calvigioni
+alta,2022-07-01,2022.0,7.0,Fabián Ángel,491546,Junior de Barranquilla,594225.0,transfermarkt
+alta,2023-01-01,2023.0,1.0,Lucas Hoyos,75462,CA Vélez Sarsfield,301101.0,transfermarkt
+alta,2022-07-01,2022.0,7.0,Cristian Ferreira,548468,CA River Plate,198075.0,transfermarkt
+baja,2022-07-18,2022.0,7.0,Nicolás Castro,565899,KRC Genk,3241920.0,calvigioni
+alta,2022-02-10,2022.0,2.0,Djorkaeff Reasco,473346,LDU Quito,1201095.0,transfermarkt
+baja,2022-01-01,2022.0,1.0,Aníbal Moreno,642758,Racing Club,1326273.0,transfermarkt
+baja,2021-07-01,2021.0,7.0,Manuel Llano,756811,CD Godoy Cruz Antonio Tomba,35652.0,transfermarkt
+alta,2021-02-24,2021.0,2.0,Justo Giani,539164,Quilmes AC,332800.0,transfermarkt
+alta,2021-02-05,2021.0,2.0,Ramiro Macagno,401913,AMSD Atlético de Rafaela,312756.0,transfermarkt
+alta,2021-02-01,2021.0,2.0,Yonathan Cabral,318819,Club Atlético Tucumán,60420.0,transfermarkt
+baja,2021-03-03,2021.0,3.0,Carlos Rotondi,553422,CSD Defensa y Justicia,602400.0,transfermarkt
+baja,2021-02-15,2021.0,2.0,Aníbal Moreno,642758,Racing Club,500928.0,transfermarkt
+baja,2020-08-29,2020.0,8.0,Luís Leal,158419,Club Tijuana,357700.0,transfermarkt
+baja,2020-07-18,2020.0,7.0,Braian Rivero,400896,Independiente del Valle,182955.0,transfermarkt
+baja,2021-01-27,2021.0,1.0,Francisco Fydriszewski,337921,SD Aucas,151425.0,transfermarkt
+alta,2020-01-31,2020.0,1.0,Sebastián Palacios,262861,CA Independiente,298404.0,transfermarkt
+alta,2019-07-17,2019.0,7.0,Julián Fernández,275319,CD Palestino,280375.0,transfermarkt
+alta,2019-01-01,2019.0,1.0,Fabricio Fontanini,87396,CD O'Higgins,496922.0,transfermarkt
+alta,2018-07-01,2018.0,7.0,Alfio Oviedo,518354,Club Cerro Porteño,151389.0,transfermarkt
+baja,2019-01-21,2019.0,1.0,Héctor Fértoli,424024,CA San Lorenzo de Almagro,400000.0,calvigioni
+baja,2018-08-01,2018.0,8.0,Joaquín Varela,553421,CD Godoy Cruz Antonio Tomba,807024.0,transfermarkt
+baja,2019-01-01,2019.0,1.0,Jalil Elías,376859,CD Godoy Cruz Antonio Tomba,594022.0,transfermarkt
+baja,2019-02-06,2019.0,2.0,Carlos Rotondi,553422,San Luis de Quillota,34182.0,transfermarkt
+alta,2017-08-04,2017.0,8.0,Luís Leal,158419,Jaguares FC,783288.0,transfermarkt
+alta,2017-07-06,2017.0,7.0,Mauro Guevgeozián,120964,CA Temperley,119542.0,transfermarkt
+alta,2018-01-23,2018.0,1.0,Fabricio Fontanini,87396,CD O'Higgins,60020.0,transfermarkt
+baja,2017-07-01,2017.0,7.0,Ignacio Scocco,51088,CA River Plate,2963393.0,transfermarkt
+baja,2017-07-01,2017.0,7.0,Mauro Formica,55870,Pumas UNAM,1994592.0,transfermarkt
+baja,2018-01-30,2018.0,1.0,Nehuén Paz,284724,Bolonia,1242100.0,transfermarkt
+baja,2018-01-01,2018.0,1.0,Franco Escobar,338169,Atlanta United FC,602350.0,transfermarkt
+baja,2017-07-01,2017.0,7.0,Guillermo Ortiz,213543,CA Colón,512895.0,transfermarkt
+baja,2018-01-26,2018.0,1.0,Milton Valenzuela,422401,Columbus Crew SC,447696.0,transfermarkt
+alta,2016-07-01,2016.0,7.0,Joel Amoroso,267721,Club Olimpo,1002150.0,transfermarkt
+alta,2016-07-23,2016.0,7.0,Germán Voboril,54496,Racing Club,49515.0,transfermarkt
+baja,2016-07-23,2016.0,7.0,Lorenzo Faravelli,181706,Club de Gimnasia y Esgrima La Plata,990300.0,transfermarkt
+baja,2017-02-22,2017.0,2.0,Ezequiel Unsain,337600,CSD Defensa y Justicia,336416.0,transfermarkt
+alta,2016-02-04,2016.0,2.0,Fabricio Formiliano,197231,Danubio FC,224120.0,transfermarkt
+baja,2015-08-31,2015.0,8.0,Ezequiel Ponce,296783,AS Roma,5158900.0,consenso(lacapital+transfermarkt)
+baja,2015-09-10,2015.0,9.0,Milton Casco,115183,CA River Plate,3159762.0,consenso(lacapital+transfermarkt)
+alta,2014-07-23,2014.0,7.0,Ignacio Scocco,51088,Sunderland AFC,4376125.0,transfermarkt
+alta,2015-01-30,2015.0,1.0,Federico Fattori,357956,CA Nueva Chicago,401328.0,transfermarkt
+baja,2014-07-04,2014.0,7.0,Nahuel Guzmán,87859,Tigres UANL,2994680.0,consenso(lacapital+transfermarkt)
+baja,2013-08-01,2013.0,8.0,Santiago Vergini,94783,Club Estudiantes de La Plata,1853040.0,transfermarkt
+baja,2014-01-08,2014.0,1.0,Pablo Pérez,55884,Málaga CF,1291430.0,transfermarkt
+alta,2012-07-07,2012.0,7.0,Milton Casco,115183,Club de Gimnasia y Esgrima La Plata,1432484.0,transfermarkt
+alta,2012-07-18,2012.0,7.0,Horacio Orzán,249468,CA Sarmiento (Resistencia),270371.0,transfermarkt
+alta,2012-07-31,2012.0,7.0,Ignacio Scocco,51088,Al-Ain FC,106871.0,transfermarkt
+baja,2013-01-01,2013.0,1.0,Leonel Vangioni,55895,CA River Plate,1706412.0,transfermarkt
+baja,2013-01-30,2013.0,1.0,Mauricio Sperduti,55892,US Palermo,338525.0,transfermarkt
+alta,2011-07-01,2011.0,7.0,Víctor Aquino,90083,Club Nacional Asunción,1101088.0,transfermarkt
+alta,2011-07-01,2011.0,7.0,Víctor Figueroa,40501,Al-Nassr FC,811328.0,transfermarkt
+alta,2011-07-01,2011.0,7.0,Ricardo Noir,74688,CA Boca Juniors,79684.0,transfermarkt
+baja,2011-08-01,2011.0,8.0,Ignacio Fideleff,66960,SSC Napoli,3171300.0,transfermarkt
+baja,2011-07-01,2011.0,7.0,Miguel Torrén,19992,AA Argentinos Juniors,405664.0,transfermarkt
+baja,2011-07-01,2011.0,7.0,Ezequiel Straccia,432343,CA River Plate,217320.0,transfermarkt
+alta,2011-02-01,2011.0,2.0,Claudio Bieler,63403,Racing Club,206325.0,transfermarkt
+alta,2010-08-01,2010.0,8.0,Marcos Riveros,100252,Club Nacional Asunción,182812.0,transfermarkt
+alta,2010-07-01,2010.0,7.0,Ignacio Ameli,118313,Sporting CP U19,88762.0,transfermarkt
+baja,2011-01-31,2011.0,1.0,Mauro Formica,55870,Blackburn Rovers,5476800.0,consenso(lacapital+transfermarkt)
+baja,2010-07-01,2010.0,7.0,Juan Manuel Insaurralde,65072,CA Boca Juniors,1849200.0,transfermarkt
+alta,2009-07-01,2009.0,7.0,Cristian Sánchez Prette,56585,CFR Cluj,95853.0,transfermarkt
+baja,2009-07-20,2009.0,7.0,Hernán Bernardello,55860,UD Almería,4265100.0,transfermarkt
+baja,2009-07-01,2009.0,7.0,Nicolás Spolli,51186,Calcio Catania,1409600.0,transfermarkt
+baja,2009-07-01,2009.0,7.0,Santiago Salcedo,53996,CA Lanús,986720.0,transfermarkt
+alta,2008-07-24,2008.0,7.0,Gastón Machín,26735,CA Independiente,697626.0,transfermarkt
+baja,2009-01-01,2009.0,1.0,Germán Ré,26483,Club Estudiantes de La Plata,1958701.0,transfermarkt
+baja,2008-08-01,2008.0,8.0,Santiago Salcedo,53996,CA River Plate,1012310.0,transfermarkt
+baja,2008-07-01,2008.0,7.0,Hugo Colace,26731,Barnsley FC,378600.0,transfermarkt
+alta,2007-07-31,2007.0,7.0,Rolando Schiavi,20002,Grêmio Foot-Ball Porto Alegrense,205605.0,transfermarkt
+baja,2007-07-01,2007.0,7.0,Óscar Cardozo,45865,SL Benfica,15370638.0,consenso(lacapital+transfermarkt)
+baja,2008-01-06,2008.0,1.0,Cristian Ansaldi,55854,Rubin Kazan,5300760.0,transfermarkt
+baja,2007-07-01,2007.0,7.0,Mauro Cejas,58527,Tecos de la UAG,1762843.0,transfermarkt
+baja,2007-07-01,2007.0,7.0,Gastón Aguirre,26459,CA San Lorenzo de Almagro,1152628.0,transfermarkt
+baja,2007-08-01,2007.0,8.0,Sebastián Arrieta,58180,Racing Club,956410.0,transfermarkt
+alta,2006-01-01,2006.0,1.0,Óscar Cardozo,45865,Club Nacional Asunción,1190816.0,consenso(lacapital+transfermarkt)
+baja,2006-07-01,2006.0,7.0,Fernando Belluschi,26460,CA River Plate,4993557.0,transfermarkt
+baja,2006-07-01,2006.0,7.0,Ignacio Scocco,51088,Pumas UNAM,3184667.0,transfermarkt
+baja,2006-07-01,2006.0,7.0,Ariel Ortega,4147,CA River Plate,1719720.0,transfermarkt
+baja,2005-07-01,2005.0,7.0,Leandro Fernández,26462,CA River Plate,2175660.0,transfermarkt
+baja,2006-01-01,2006.0,1.0,Ezequiel Garay,35939,Real Racing Club,1654287.0,transfermarkt
+baja,2006-01-01,2006.0,1.0,Luciano Vella,38371,Cádiz CF,472653.0,transfermarkt
+baja,2004-08-30,2004.0,8.0,Mauro Rosales,22813,Ajax de Ámsterdam,3011750.0,transfermarkt
+baja,2005-01-01,2005.0,1.0,Sebastián Domínguez,26461,SC Corinthians,2037450.0,transfermarkt
+baja,2003-07-01,2003.0,7.0,Leonardo Ponzio,7987,Real Zaragoza,2654890.0,transfermarkt
+baja,2004-01-01,2004.0,1.0,Pablo Guiñazú,24995,Saturn Ramenskoe,1929483.0,transfermarkt
+baja,2002-07-01,2002.0,7.0,Maxi Rodríguez,7895,RCD Espanyol,5947800.0,consenso(lacapital+transfermarkt)
+baja,2001-07-01,2001.0,7.0,Sergio Almirón,5890,Udinese Calcio,1692667.0,transfermarkt
+baja,2001-08-16,2001.0,8.0,Fabricio Fuentes,12505,CA Vélez Sarsfield,932688.0,transfermarkt
+baja,2001-08-01,2001.0,8.0,Sebastián Cejas,21146,AS Roma,731811.0,transfermarkt
+baja,2001-01-19,2001.0,1.0,Lucas Bernardi,5294,Olympique de Marsella,5734000.0,consenso(lacapital+transfermarkt)
+baja,2000-07-01,2000.0,7.0,Diego Mateo,7860,US Lecce,3575625.0,transfermarkt
+baja,1999-07-01,1999.0,7.0,Diego Crosa,19963,Real Betis Balompié,3900320.0,transfermarkt
+baja,1999-07-01,1999.0,7.0,Daniel Fagiani,27670,Valencia CF,1847520.0,transfermarkt

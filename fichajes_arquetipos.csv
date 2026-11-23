@@ -1,0 +1,186 @@
+jugador,anio,grupo_posicion,arquetipo,PC1,PC2,edad_llegada,club_contraparte,evaluable,buen_fichaje
+Franco Escobar,2026.0,Defensor,Veterano que llega libre,0.545,-0.299,31,CA Peñarol,False,
+Lautaro Giannetti,2026.0,Defensor,Veterano que llega libre,0.909,0.493,33,Antalyaspor,False,
+Alan Soñora,2026.0,Mediocampista,Trotamundos experimentado,0.836,-1.158,28,Club Cerro Porteño,False,
+Mateo García,2026.0,Delantero,Trotamundos experimentado,1.25,0.427,30,Atlas Guadalajara,False,
+Lucas Gómez,2026.0,Mediocampista,Apuesta barata,-1.788,-1.8,22,AA Argentinos Juniors,False,
+Lucas Carrizo,2026.0,Defensor,Consolidado de alto valor,0.06,-0.029,29,CA Huracán,False,
+Santiago Solari,2026.0,Delantero,Consolidado de alto valor,0.47,1.487,28,Racing Club,False,
+Rodrigo Herrera,2026.0,Mediocampista,Consolidado de alto valor,-0.172,0.757,26,CSD Defensa y Justicia,False,
+Oscar Salomón,2026.0,Defensor,Consolidado de alto valor,0.296,1.087,27,CA Boca Juniors,False,
+Luciano Herrera,2026.0,Delantero,Consolidado de alto valor,0.268,0.458,30,CSD Defensa y Justicia,False,
+Bruno Cabrera,2026.0,Defensor,Consolidado de alto valor,0.342,0.099,29,Coquimbo Unido,False,
+Walter Núñez,2026.0,Delantero,Joven a préstamo de club grande,-1.285,-0.059,23,Montevideo City Torque,False,
+Walter Mazzantti,2026.0,Delantero,Consolidado de alto valor,0.842,1.492,30,CA Independiente,False,
+Franco García,2026.0,Delantero,Apuesta barata,-0.241,-0.492,29,CD Cobresal,False,
+Nicolás Goitea,2026.0,Defensor,Trotamundos experimentado,0.625,-1.08,29,CA Mitre,False,
+Matías Cóccaro,2026.0,Delantero,Consolidado de alto valor,1.086,1.231,29,CF Montréal,False,
+Franco Orozco,2025.0,Delantero,Joven a préstamo de club grande,-1.108,0.697,24,CA Lanús,False,
+Fabián Noguera,2025.0,Defensor,Veterano que llega libre,2.062,0.136,33,Abha Club,False,
+Martín Ortega,2026.0,Defensor,Joven a préstamo de club grande,-0.455,0.421,27,CA Tigre,False,
+Gabriel Arias,2026.0,Arquero,Veterano que llega libre,2.216,-1.007,39,Racing Club,False,
+Gabriel Risso Patrón,2026.0,Defensor,Veterano que llega libre,0.512,-1.255,31,Club Atlético Tucumán,False,
+Michael Hoyos,2026.0,Delantero,Veterano que llega libre,2.933,-1.153,35,Independiente del Valle,False,
+Saúl Salcedo,2024.0,Defensor,Joven a préstamo de club grande,-1.04,0.619,26,Club Olimpia,True,0.0
+Fernando Cardozo,2024.0,Delantero,Joven a préstamo de club grande,-1.273,1.315,23,Club Olimpia,True,0.0
+Luca Sosa,2025.0,Defensor,Trotamundos experimentado,1.107,0.516,30,Barcelona SC Guayaquil,True,0.0
+Alejo Montero,2025.0,Defensor,Apuesta barata,-1.343,-0.835,26,CA Agropecuario,True,0.0
+Luciano Lollo,2025.0,Defensor,Veterano que llega libre,2.123,-2.677,37,Club Estudiantes de La Plata,True,1.0
+Juan Manuel García,2024.0,Delantero,Trotamundos experimentado,2.001,-0.217,31,Volos NFC,True,0.0
+Juan Ignacio Méndez,2024.0,Mediocampista,Consolidado de alto valor,0.12,0.568,27,CA Vélez Sarsfield,True,0.0
+Victor Cuesta,2025.0,Defensor,Veterano que llega libre,2.075,-1.05,35,Esporte Clube Bahia,True,1.0
+Carlos González,2025.0,Delantero,Trotamundos experimentado,2.006,0.828,31,Club Tijuana,True,0.0
+Alejo Tabares,2025.0,Defensor,Apuesta barata,-0.752,-1.807,23,CA All Boys,True,0.0
+Luciano Herrera,2025.0,Delantero,Consolidado de alto valor,-0.124,0.134,28,CSD Defensa y Justicia,True,1.0
+Gonzalo Maroni,2025.0,Mediocampista,Consolidado de alto valor,0.509,1.231,25,CA Boca Juniors,True,1.0
+Ignacio Ramírez,2024.0,Delantero,Joven a préstamo de club grande,-0.751,0.794,26,Club Nacional,True,1.0
+Carlos Ordóñez,2023.0,Defensor,Apuesta barata,-2.238,-1.114,21,Envigado FC,True,0.0
+Franco Díaz,2024.0,Mediocampista,Joven a préstamo de club grande,-0.873,0.585,22,CA Vélez Sarsfield,True,0.0
+Ignacio Schor,2023.0,Delantero,Joven a préstamo de club grande,-1.731,0.621,22,CA Platense,True,0.0
+Guillermo May,2023.0,Delantero,Joven a préstamo de club grande,-0.365,0.111,25,Danubio FC,True,0.0
+Éver Banega,2024.0,Mediocampista,Veterano que llega libre,2.162,0.678,35,Al-Shabab FC,True,1.0
+Augusto Schott,2023.0,Defensor,Apuesta barata,-1.02,-0.638,23,CA Talleres,True,0.0
+Rodrigo Fernández Cedrés,2024.0,Mediocampista,Joven a préstamo de club grande,-0.305,0.288,27,Santos FC,True,0.0
+Ángelo Martino,2023.0,Defensor,Joven a préstamo de club grande,-1.387,0.593,24,CA Talleres,True,1.0
+Jherson Mosquera,2023.0,Defensor,Joven a préstamo de club grande,-2.044,-0.065,22,Deportivo Pereira,True,0.0
+Willer Ditta,2023.0,Defensor,Joven a préstamo de club grande,-1.352,1.674,24,Junior de Barranquilla,True,1.0
+Fabián Ángel,2022.0,Mediocampista,Joven a préstamo de club grande,-1.924,0.025,21,Junior de Barranquilla,True,0.0
+Lucas Hoyos,2023.0,Arquero,Veterano que llega libre,1.072,-0.357,33,CA Vélez Sarsfield,True,1.0
+Cristian Ferreira,2022.0,Mediocampista,Joven a préstamo de club grande,-1.446,0.575,22,CA River Plate,True,1.0
+Bruno Pittón,2023.0,Defensor,Apuesta barata,0.162,-0.611,29,CS Emelec,True,0.0
+Jorge Recalde,2023.0,Delantero,Apuesta barata,-0.227,-0.2,30,Club Olimpia,True,0.0
+Jonathan Menéndez,2023.0,Delantero,Trotamundos experimentado,0.772,0.638,28,Real Salt Lake City,True,0.0
+Guillermo Ortiz,2023.0,Defensor,Consolidado de alto valor,0.078,0.203,29,CD Godoy Cruz Antonio Tomba,True,1.0
+Iván Gómez,2023.0,Mediocampista,Joven a préstamo de club grande,-0.937,0.386,25,Club Estudiantes de La Plata,True,1.0
+Djorkaeff Reasco,2022.0,Delantero,Joven a préstamo de club grande,-1.76,-0.175,22,LDU Quito,True,0.0
+Armando Méndez,2022.0,Defensor,Apuesta barata,-0.829,-0.453,25,Club Nacional,True,1.0
+Juan Garro,2021.0,Delantero,Joven a préstamo de club grande,-0.691,0.516,28,CA Huracán,True,1.0
+Gustavo Velázquez,2022.0,Defensor,Consolidado de alto valor,0.976,1.235,30,FC Juárez,True,1.0
+Juan Manuel García,2022.0,Delantero,Trotamundos experimentado,0.854,-0.483,28,CA Unión (Santa Fe),True,1.0
+Leonel Vangioni,2022.0,Defensor,Veterano que llega libre,1.353,-0.885,34,Club Libertad Asunción,True,0.0
+Iván Arboleda,2022.0,Arquero,Consolidado de alto valor,-0.052,0.972,25,Rayo Vallecano,True,0.0
+Willer Ditta,2022.0,Defensor,Joven a préstamo de club grande,-1.59,-0.056,23,Junior de Barranquilla,True,1.0
+Justo Giani,2021.0,Delantero,Apuesta barata,-1.937,-0.605,21,Quilmes AC,True,0.0
+Ramiro Macagno,2021.0,Arquero,Apuesta barata,-1.851,-0.989,23,AMSD Atlético de Rafaela,True,0.0
+Yonathan Cabral,2021.0,Defensor,Joven a préstamo de club grande,-0.393,0.071,28,Club Atlético Tucumán,True,0.0
+Manuel Capasso,2020.0,Defensor,Apuesta barata,-1.001,-0.587,24,CA Aldosivi,True,0.0
+Fernando Belluschi,2021.0,Mediocampista,Veterano que llega libre,2.581,-0.293,36,CA Lanús,True,0.0
+Jonatan Cristaldo,2021.0,Delantero,Trotamundos experimentado,1.974,0.626,31,Racing Club,True,1.0
+Franco Negri,2021.0,Defensor,Apuesta barata,-0.544,-0.975,25,CA Belgrano,True,1.0
+Cristian Lema,2021.0,Defensor,Consolidado de alto valor,1.286,1.169,30,Damac FC,True,1.0
+Ignacio Scocco,2020.0,Delantero,Veterano que llega libre,2.129,0.408,35,CA River Plate,True,0.0
+Manuel Guanini,2020.0,Defensor,Apuesta barata,-1.284,-0.343,24,Club de Gimnasia y Esgrima La Plata,True,0.0
+Franco Escobar,2021.0,Defensor,Joven a préstamo de club grande,-1.459,0.285,25,Atlanta United FC,True,0.0
+Sebastián Palacios,2020.0,Delantero,Consolidado de alto valor,0.315,1.664,27,CA Independiente,True,1.0
+Julián Fernández,2019.0,Mediocampista,Apuesta barata,-1.124,-0.464,24,CD Palestino,True,0.0
+Pablo Pérez,2020.0,Mediocampista,Veterano que llega libre,1.2,0.221,33,CA Independiente,True,0.0
+Santiago Gentiletti,2019.0,Defensor,Veterano que llega libre,2.486,-1.538,34,Albacete Balompié,True,0.0
+Ramiro Macagno,2019.0,Arquero,Apuesta barata,-2.063,-1.054,22,AMSD Atlético de Rafaela,True,0.0
+Matías Orihuela,2019.0,Defensor,Trotamundos experimentado,0.68,-1.314,27,Apollon Smyrni,True,0.0
+Lucas Villarruel,2019.0,Mediocampista,Apuesta barata,-0.148,-1.408,28,CSD Defensa y Justicia,True,0.0
+Cristian Lema,2019.0,Defensor,Consolidado de alto valor,0.684,1.278,29,SL Benfica,True,1.0
+Lucas Albertengo,2019.0,Delantero,Consolidado de alto valor,-0.123,0.242,28,CA Independiente,True,0.0
+Rodrigo Salinas,2019.0,Delantero,Trotamundos experimentado,2.284,-0.993,32,CA Vélez Sarsfield,True,0.0
+Fabricio Fontanini,2019.0,Defensor,Consolidado de alto valor,0.481,0.437,28,CD O'Higgins,True,0.0
+Alfio Oviedo,2018.0,Delantero,Apuesta barata,-1.481,-1.25,22,Club Cerro Porteño,True,0.0
+Ángelo Gabrielli,2019.0,Defensor,Apuesta barata,-0.946,-0.906,26,Liverpool FC Montevideo,True,0.0
+Mauro Formica,2018.0,Mediocampista,Consolidado de alto valor,0.423,0.971,30,Pumas UNAM,True,1.0
+Alan Aguerre,2018.0,Arquero,Joven a préstamo de club grande,-0.749,-0.043,27,CA Vélez Sarsfield,True,1.0
+Mariano Bíttolo,2018.0,Defensor,Trotamundos experimentado,0.3,-0.283,28,Albacete Balompié,True,1.0
+Leandro Grimi,2018.0,Defensor,Veterano que llega libre,1.724,-1.286,33,Racing Club,True,0.0
+Ribair Rodríguez,2019.0,Mediocampista,Trotamundos experimentado,1.489,-0.336,30,Danubio FC,True,0.0
+Emanuel Biancucchi,2019.0,Mediocampista,Trotamundos experimentado,2.437,-1.682,29,FBC Melgar,True,0.0
+Maxi Rodríguez,2019.0,Delantero,Veterano que llega libre,1.603,-0.457,37,CA Peñarol,True,1.0
+Zé Turbo,2019.0,Delantero,Apuesta barata,-0.77,-1.833,21,Inter de Milán,True,0.0
+Cristian Insaurralde,2019.0,Delantero,Trotamundos experimentado,0.099,0.15,26,CD O'Higgins,True,0.0
+Iván Piris,2018.0,Defensor,Trotamundos experimentado,1.236,0.705,29,CF Monterrey,True,0.0
+Teodoro Paredes,2018.0,Defensor,Apuesta barata,-0.4,-1.507,25,Club Nacional Asunción,True,0.0
+Luís Leal,2017.0,Delantero,Trotamundos experimentado,2.81,0.071,30,Jaguares FC,True,1.0
+Mauro Guevgeozián,2017.0,Delantero,Trotamundos experimentado,1.84,-0.358,31,CA Temperley,True,0.0
+Fabricio Fontanini,2018.0,Defensor,Trotamundos experimentado,0.273,-0.592,27,CD O'Higgins,True,1.0
+Fernando Evangelista,2018.0,Defensor,Joven a préstamo de club grande,-0.529,-0.024,25,CA Boca Juniors,True,0.0
+Nelson Ibáñez,2017.0,Arquero,Veterano que llega libre,1.514,-0.735,35,CA Tigre,True,0.0
+Nery Leyes,2017.0,Mediocampista,Apuesta barata,-0.187,-0.778,27,Club Atlético Tucumán,True,0.0
+Brian Sarmiento,2017.0,Mediocampista,Trotamundos experimentado,1.536,-0.481,27,CA Banfield,True,1.0
+Hernán Bernardello,2018.0,Mediocampista,Veterano que llega libre,0.694,-0.026,30,Montreal Impact,True,0.0
+Bruno Bianchi,2017.0,Defensor,Trotamundos experimentado,0.718,-0.957,28,Club Atlético Tucumán,True,1.0
+Joel Amoroso,2016.0,Mediocampista,Apuesta barata,-0.13,-0.82,28,Club Olimpo,True,0.0
+Germán Voboril,2016.0,Defensor,Apuesta barata,-0.232,-0.887,29,Racing Club,True,0.0
+Jacobo Mansilla,2017.0,Mediocampista,Trotamundos experimentado,0.746,-0.321,29,Club Olimpo,True,0.0
+José San Román,2017.0,Defensor,Trotamundos experimentado,1.273,-0.049,27,ADO Den Haag,True,0.0
+Mauro Formica,2016.0,Mediocampista,Consolidado de alto valor,-0.228,0.302,28,CD Cruz Azul,True,1.0
+Sebastián Prediger,2016.0,Mediocampista,Trotamundos experimentado,1.767,-0.151,29,CA Belgrano,True,0.0
+Facundo Quignón,2016.0,Mediocampista,Apuesta barata,-1.591,-0.504,23,CA San Lorenzo de Almagro,True,1.0
+Mauro Matos,2016.0,Delantero,Veterano que llega libre,1.328,-0.157,33,CA San Lorenzo de Almagro,True,0.0
+Néstor Moiraghi,2016.0,Defensor,Trotamundos experimentado,1.823,-0.872,31,Club Olimpo,True,1.0
+Juan Ignacio Sills,2016.0,Defensor,Trotamundos experimentado,0.62,-0.842,29,Club Olimpo,True,0.0
+Leandro Vega,2016.0,Defensor,Joven a préstamo de club grande,-2.098,0.974,20,CA River Plate,True,0.0
+Fabricio Formiliano,2016.0,Defensor,Joven a préstamo de club grande,-2.032,0.13,22,Danubio FC,True,0.0
+Sebastián Domínguez,2016.0,Defensor,Veterano que llega libre,1.086,-0.003,34,Club Estudiantes de La Plata,True,1.0
+Sebastián D’Angelo,2016.0,Arquero,Apuesta barata,-0.675,-2.336,26,CA Tigre,True,0.0
+Luis Advíncula,2016.0,Defensor,Trotamundos experimentado,0.503,-0.154,25,Bursaspor,True,1.0
+Emanuel Insúa,2016.0,Defensor,Joven a préstamo de club grande,-0.805,0.742,24,Udinese,True,0.0
+Lucas Mugni,2015.0,Mediocampista,Joven a préstamo de club grande,-1.576,0.818,23,CR Flamengo,True,0.0
+Mauro Formica,2015.0,Mediocampista,Consolidado de alto valor,-0.522,0.964,27,CD Cruz Azul,True,1.0
+Lucas Boyé,2015.0,Delantero,Joven a préstamo de club grande,-2.566,0.676,19,CA River Plate,True,0.0
+Ignacio Scocco,2014.0,Delantero,Consolidado de alto valor,0.706,2.066,29,Sunderland AFC,True,1.0
+Juan Neira,2015.0,Mediocampista,Trotamundos experimentado,0.037,-0.083,25,CA Fénix,True,0.0
+Sebastián Martínez,2015.0,Defensor,Veterano que llega libre,0.798,-1.314,31,Quilmes AC,True,0.0
+Óscar Ustari,2014.0,Arquero,Trotamundos experimentado,0.415,0.096,27,Sunderland AFC,True,1.0
+Leandro Fernández,2014.0,Defensor,Consolidado de alto valor,0.036,2.277,31,Dinamo Moscú,True,0.0
+Hernán Bernardello,2015.0,Mediocampista,Consolidado de alto valor,-0.239,0.742,27,CD Cruz Azul,True,0.0
+Claudio Corvalán,2014.0,Defensor,Joven a préstamo de club grande,-1.222,0.455,25,Racing Club,True,0.0
+Nehuén Paz,2015.0,Defensor,Apuesta barata,-2.261,-2.98,21,CA All Boys,True,1.0
+Luciano Pocrnjic,2015.0,Arquero,Veterano que llega libre,0.596,-1.194,32,CA San Martín (San Juan),True,0.0
+Éver Banega,2014.0,Mediocampista,Consolidado de alto valor,-0.588,3.316,25,Valencia CF,True,1.0
+David Trezeguet,2013.0,Delantero,Veterano que llega libre,2.092,-0.394,35,CA River Plate,True,1.0
+Nicolás Castro,2014.0,Mediocampista,Consolidado de alto valor,0.644,0.712,29,CD Godoy Cruz Antonio Tomba,True,1.0
+Damián Manso,2013.0,Mediocampista,Veterano que llega libre,2.396,0.093,34,Deportivo Cuenca,True,0.0
+Adrián Gabbarini,2013.0,Arquero,Apuesta barata,-0.876,-0.572,27,CA Independiente,True,0.0
+Franco Lazzaroni,2013.0,Defensor,Apuesta barata,-0.407,-2.933,25,CSD Defensa y Justicia,True,0.0
+Milton Casco,2012.0,Defensor,Joven a préstamo de club grande,-1.398,-0.091,24,Club de Gimnasia y Esgrima La Plata,True,1.0
+Ignacio Scocco,2012.0,Delantero,Consolidado de alto valor,-0.199,2.04,27,Al-Ain FC,True,1.0
+Rinaldo Cruzado,2013.0,Mediocampista,Trotamundos experimentado,0.702,0.128,27,Chievo Verona,True,0.0
+Maxi Rodríguez,2012.0,Delantero,Consolidado de alto valor,0.314,1.76,31,Liverpool FC,True,1.0
+Marcos Cáceres,2012.0,Defensor,Joven a préstamo de club grande,-0.92,0.349,26,Racing Club,True,1.0
+Gabriel Heinze,2012.0,Defensor,Veterano que llega libre,1.95,0.757,34,AS Roma,True,1.0
+Santiago Vergini,2012.0,Defensor,Apuesta barata,-1.564,-0.508,23,Club Olimpia,True,1.0
+Víctor Aquino,2011.0,Delantero,Apuesta barata,-0.667,-0.855,25,Club Nacional Asunción,True,1.0
+Víctor Figueroa,2011.0,Delantero,Consolidado de alto valor,0.036,0.944,27,Al-Nassr FC,True,1.0
+Ricardo Noir,2011.0,Mediocampista,Joven a préstamo de club grande,-1.105,-0.24,24,CA Boca Juniors,True,1.0
+Víctor López,2012.0,Defensor,Veterano que llega libre,1.002,0.438,32,CA Banfield,True,1.0
+Juan Domínguez,2012.0,Mediocampista,Joven a préstamo de club grande,-0.822,0.106,24,Club Estudiantes de La Plata,True,0.0
+Hernán Pellerano,2011.0,Defensor,Consolidado de alto valor,-0.543,1.932,27,UD Almería,True,1.0
+Santiago Vergini,2011.0,Defensor,Apuesta barata,-1.803,-2.301,22,Club Olimpia,True,1.0
+Claudio Bieler,2011.0,Delantero,Consolidado de alto valor,-0.161,0.858,26,Racing Club,True,1.0
+Sebastián Taborda,2010.0,Delantero,Trotamundos experimentado,0.62,0.144,29,Defensor Sporting Club,True,0.0
+Fabricio Fuentes,2011.0,Defensor,Veterano que llega libre,1.229,0.258,33,Atlas Guadalajara,True,0.0
+Luciano Vella,2010.0,Defensor,Consolidado de alto valor,0.492,0.203,29,CA Independiente,True,1.0
+Leandro Velázquez,2010.0,Mediocampista,Joven a préstamo de club grande,-1.935,0.098,21,CA Vélez Sarsfield,True,0.0
+Luis Miguel Rodríguez,2010.0,Delantero,Joven a préstamo de club grande,-1.217,0.776,25,Club Atlético Tucumán,True,0.0
+Gabriel Cichero,2010.0,Defensor,Trotamundos experimentado,0.35,-1.48,26,Caracas FC,True,1.0
+Iván Borghello,2010.0,Delantero,Consolidado de alto valor,-0.279,0.356,27,Deportivo Quito,True,0.0
+Cristian Sánchez Prette,2009.0,Mediocampista,Joven a préstamo de club grande,-1.069,1.034,24,CFR Cluj,True,1.0
+Marcelo Estigarribia,2010.0,Mediocampista,Joven a préstamo de club grande,-1.343,0.278,21,Le Mans Union Club 72,True,1.0
+Agustín Alayes,2010.0,Defensor,Consolidado de alto valor,-0.196,1.369,30,Club Estudiantes de La Plata,True,1.0
+Hugo Barrientos,2009.0,Mediocampista,Veterano que llega libre,1.292,0.675,32,CA Huracán,True,1.0
+Diego Mateo,2009.0,Mediocampista,Veterano que llega libre,0.958,0.307,30,CA Gimnasia y Esgrima (Jujuy),True,0.0
+Nahuel Guzmán,2010.0,Arquero,Apuesta barata,-1.748,-1.978,23,CS Independiente Rivadavia,True,0.0
+Franco Dolci,2009.0,Mediocampista,Apuesta barata,-0.382,-1.354,25,CA Chacarita Juniors,True,0.0
+Jorge Achucarro,2009.0,Delantero,Joven a préstamo de club grande,-0.832,1.02,27,Atlas Guadalajara,True,1.0
+Gastón Machín,2008.0,Mediocampista,Joven a préstamo de club grande,-1.19,1.31,25,CA Independiente,True,0.0
+Lucas Bernardi,2009.0,Mediocampista,Consolidado de alto valor,-0.153,1.509,30,AS Mónaco,True,1.0
+Gustavo Pinto,2008.0,Mediocampista,Consolidado de alto valor,0.644,0.702,29,Club Olimpo,True,0.0
+Cristian Fabbiani,2008.0,Delantero,Consolidado de alto valor,-0.79,1.703,24,CFR Cluj,True,1.0
+Germán Caffa,2008.0,Arquero,Trotamundos experimentado,0.853,0.067,27,CA San Martín (Tucumán),True,0.0
+Juan Quiroga,2007.0,Defensor,Joven a préstamo de club grande,-0.903,0.17,25,Club Puebla,True,0.0
+Nicolás Cabrera,2008.0,Mediocampista,Joven a préstamo de club grande,-1.563,1.288,23,Racing Club,True,1.0
+Yonny Peralta,2008.0,Defensor,Joven a préstamo de club grande,-2.269,-0.42,19,AA Durazno Futbol Club,True,0.0
+Juan Ferreyra,2008.0,Delantero,Trotamundos experimentado,-0.156,-0.335,23,Club San Martin de Monte Coman,True,0.0
+Cristian Llama,2008.0,Mediocampista,Joven a préstamo de club grande,-1.923,-0.166,21,Calcio Catania,True,0.0
+Claudio Husaín,2007.0,Mediocampista,Consolidado de alto valor,1.154,1.548,31,CA San Lorenzo de Almagro,True,0.0
+Matías Miramontes,2006.0,Mediocampista,Apuesta barata,-0.704,-0.939,24,UD Leiria,True,0.0
+Mario Sosa,2006.0,Mediocampista,Apuesta barata,-2.282,-0.644,20,CA Boca Juniors,True,0.0
+Claudio Husaín,2005.0,Mediocampista,Consolidado de alto valor,0.694,1.503,30,Tigres UANL,True,0.0
+Diego Gavilán,2006.0,Mediocampista,Consolidado de alto valor,-0.357,0.637,25,Sport Club Internacional,True,0.0
+Santiago Silva,2005.0,Delantero,Trotamundos experimentado,0.038,-0.888,24,SC Beira-Mar,True,1.0
